@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Karim, I'm a Data Engineer
+
+I'm working on some cool stuff like Dbt, Snowflake, Airflow, Kafka, ...
 <!--
 **karimfaiz/karimfaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
